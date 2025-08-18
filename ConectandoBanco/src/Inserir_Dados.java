@@ -38,8 +38,4 @@ public class Inserir_Dados {
             System.out.println("Erro ao conectar: " + e.getMessage());      
         }
     }
-
-    static void InserirAluno(String string, String helena_Viegas) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
 }
